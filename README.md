@@ -7,11 +7,11 @@ Use the factory pattern when you want a method to return several possible classe
 Welcome to Pizza<sup>2</sup>! Our kitchen already outputs messages when a new Pizza or Calzone is ordered. See for yourself by running the following command:
 
 ```
-python3 main.py -t P
+python3 __main__.py -t P
 ```
 
 ```
-python3 main.py -t C
+python3 __main__.py -t C
 ```
 
 Our chef wants to add a new item to the menu... Stromboli!! Using the factory design pattern, add the Stromboli dish to the menu by outputting messages when a Stromboli is ordered!
