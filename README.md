@@ -31,7 +31,6 @@ pizza is being boxed
 small calzone is being made
 calzone is being cooked
 calzone is being boxed
-
 ```
 
 # Desired output
