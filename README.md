@@ -21,6 +21,19 @@ Our chef wants to add a new item to the menu... Stromboli!! Using the factory de
 ![alt text](http://yuml.me/b723c80f.png)
 [edit](http://yuml.me/edit/b723c80f)
 
+### Previous output
+
+```
+large pizza is being made
+pizza is being cooked
+pizza is being boxed
+
+small calzone is being made
+calzone is being cooked
+calzone is being boxed
+
+```
+
 # Desired output
 
 ```
