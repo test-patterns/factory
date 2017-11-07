@@ -14,6 +14,11 @@ python3 main.py -t C
 
 Our chef wants to add a new item to the menu... Stromboli!! Using the factory design pattern, add the Stromboli dish to the menu by outputting messages when a Stromboli is ordered!
 
+### UML
+
+![alt text](http://yuml.me/b723c80f.png)
+[edit](http://yuml.me/edit/b723c80f)
+
 # Desired output
 
 ```
