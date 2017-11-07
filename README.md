@@ -1,6 +1,8 @@
 # factory
 Sample problem featuring the factory pattern.
 
+Use the factory pattern when you want a method to return several possible classes that share a common super class.
+
 # Class problem
 Welcome to Pizza<sup>2</sup>! Our kitchen already outputs messages when a new Pizza or Calzone is ordered. See for yourself by running the following command:
 
